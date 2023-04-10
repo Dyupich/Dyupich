@@ -1,2 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1800&pause=50&color=51F700&background=FF2A1100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi%2C+I'm+Dyupin+Andrey!;I+am+a+software+developer+from+Russia+learning+various+;programming+languages.)](https://git.io/typing-svg)  
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyupich&show_icons=true&theme=transparent)
